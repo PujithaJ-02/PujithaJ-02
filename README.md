@@ -11,7 +11,7 @@
   ════════════════════════════════════════════════════════════════
 -->
 
-<img align="right" width="230" src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" alt="data workspace" />
+<img align="right" width="230" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="data workspace" />
 <!-- ↑ swap this floating GIF for any you love -->
 
 ## Hi, I'm Pujitha Jujjarapu!
@@ -150,7 +150,7 @@ def about_me():
 
 ---
 
-### Let's connect
+### 🐙 Let's connect
 
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="90" alt="octocat" align="left" />
 
