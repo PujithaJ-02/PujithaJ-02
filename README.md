@@ -1,15 +1,182 @@
-#  About Me:
-I work in machine learning and deep learning, mostly on computer vision and large language models. The way I learn a new tool is by building something with it. Reading the docs is fine, but I do not really get it until I have shipped a project and watched where it breaks.<br>Research is where I go deepest. My thesis is a deepfake detector that catches attacks it was never trained on. It works by watching how two vision models disagree about the same image. It holds at 99 percent on five attack types it never saw, and it got accepted at SMC. I have a second paper under review at FMLDS on counting green oranges in orchard videos with no labels. And my first paper is already published in IJETMS, on credit card fraud detection, where the best model reached 97 percent accuracy on data that was only 0.17 percent fraud.<br>On the LLM side, I build RAG systems and agents and try to make them hold up in real use, not just in a demo. One RAG assistant I built runs LLaMA-3-8B fine-tuned with LoRA over 15,000 documents and answers in under 200ms. I check its quality with RAGAS instead of eyeballing it. I also built a support agent that learns from thumbs-up and thumbs-down feedback and retrains its own reward model.<br>New tech comes out fast, and I like that. I keep up by picking something I haven't used and building a project around it. That is how I learn best.
+<!--
+  ════════════════════════════════════════════════════════════════
+  Pujitha Jujjarapu — GitHub Profile README  (calm / light style)
+  How to use:
+    1. Create a repo named EXACTLY  PujithaJ-02  (same as your username)
+    2. Make it Public, tick "Add a README"
+    3. Replace that README with everything below this comment block
+    4. Commit → it shows on github.com/PujithaJ-02
+  GIFs are giphy links — swap any of them (paste a new URL in <img src="">).
+  Stat widgets are live and auto-update.
+  ════════════════════════════════════════════════════════════════
+-->
 
+<img align="right" width="230" src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" alt="data workspace" />
+<!-- ↑ swap this floating GIF for any you love -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PujithaJ-02&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PujithaJ-02&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PujithaJ-02&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Hi, I'm Pujitha Jujjarapu!
+
+<p><em>AI/ML Engineer &amp; Data Scientist 📊<br/>
+M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
+
+<p><em>First-author researcher &amp; 13 months of production ML — now building agentic + RAG systems. I love turning messy data into predictions that move industries (and unwinding with a LeetCode or SQL puzzle).</em></p>
+
+[![LinkedIn: pujitha-jujjarapu](https://img.shields.io/badge/-pujitha--jujjarapu-7d6fc6?style=flat-square&logo=Linkedin&logoColor=white&labelColor=4a4658)](https://www.linkedin.com/in/pujitha-jujjarapu/)
+[![Chat with my bot](https://img.shields.io/badge/-chat_with_my_bot-3fa07a?style=flat-square&logo=vercel&logoColor=white&labelColor=4a4658)](https://pujitha-chatbot.vercel.app/)
+[![Follow PujithaJ-02](https://img.shields.io/github/followers/PujithaJ-02?label=follow&style=social)](https://github.com/PujithaJ-02)
+![views](https://komarev.com/ghpvc/?username=PujithaJ-02&label=views&color=7d6fc6&style=flat-square)
+
+### <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="30" /> A little more about me…
+
+```python
+def about_me():
+    """AI/ML Engineer & Data Scientist · open to full-time roles"""
+
+    experience = "13 months production ML + first-author research"
+    highlight  = "99%+ adversarial detection — accepted @ IEEE SMC"
+    i_build    = ["RAG & agentic systems", "robust CV models", "ETL + ML pipelines"]
+    toolkit    = ["Python", "PyTorch", "SQL", "LangGraph", "AWS"]
+
+    return "I turn messy data into models you can trust in production."
+```
+
+💬 *Always glad to nerd out over models, data pipelines, or a tricky SQL query — and open to AI/ML &amp; Data Science roles. **Drop me a line, my inbox is open.** ✶*
 
 ---
-[![](https://komarev.com/ghpvc/?username=PujithaJ-02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎓 Research & education
+
+> **Graduate Researcher — Master's Thesis · CSUN** &nbsp;·&nbsp; Sep 2025 – May 2026
+> First author · Accepted at IEEE SMC · Nominated — Outstanding Graduate Research Award
+> Built **CMXD**, an adversarial deepfake-detection framework that catches attacks by measuring the divergence between gradient-attribution maps from XceptionNet and EfficientNet-B4 — then trained a 5-channel ResNet-50 on PGD attacks alone that generalized to **5 unseen attack types at 99%+ detection accuracy**, with no retraining.
+
+> **Graduate Research Assistant · CSUN** &nbsp;·&nbsp; Feb 2026 – May 2026
+> First author · Under review (FMLDS)
+> Zero-shot benchmarking of unsupervised vision models for object counting in precision agriculture, with custom annotation tooling and an open evaluation framework. *More to come on publication.*
+
+> **Credit-Card Fraud Detection with ML & DL** &nbsp;·&nbsp; Published · IJETMS
+> Benchmarked 7 models on 284K transactions (0.17% fraud) with ADASYN rebalancing, scored on minority-class precision &amp; recall — best F1 **0.95**.
+
+🎓 M.S. Computer Science, CSUN — **3.9/4.0 (Honors)** · 2024–2026 &nbsp;|&nbsp; 🎓 B.Tech, Annamacharya Institute — **8.86/10** · 2019–2023
+
+---
+
+### ◇ Tech I build with
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![BERT](https://img.shields.io/badge/BERT-7d6fc6?style=flat&labelColor=eee7f7)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-7d6fc6?style=flat&labelColor=eee7f7)
+![DINOv2](https://img.shields.io/badge/DINOv2-7d6fc6?style=flat&labelColor=eee7f7)
+![CutLER](https://img.shields.io/badge/CutLER-7d6fc6?style=flat&labelColor=eee7f7)
+![iBOT](https://img.shields.io/badge/iBOT-7d6fc6?style=flat&labelColor=eee7f7)
+![MAE](https://img.shields.io/badge/MAE-7d6fc6?style=flat&labelColor=eee7f7)
+![DINO](https://img.shields.io/badge/DINO-7d6fc6?style=flat&labelColor=eee7f7)
+
+**GenAI & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7d6fc6?style=flat&labelColor=eee7f7)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7d6fc6?style=flat&labelColor=eee7f7)
+![LLaMA-3](https://img.shields.io/badge/LLaMA--3-7d6fc6?style=flat&labelColor=eee7f7)
+![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-7d6fc6?style=flat&labelColor=eee7f7)
+![RAG](https://img.shields.io/badge/RAG-7d6fc6?style=flat&labelColor=eee7f7)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7d6fc6?style=flat&labelColor=eee7f7)
+![RAGAS](https://img.shields.io/badge/RAGAS-7d6fc6?style=flat&labelColor=eee7f7)
+![RLHF](https://img.shields.io/badge/RLHF-7d6fc6?style=flat&labelColor=eee7f7)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7d6fc6?style=flat&labelColor=eee7f7)
+![Reward Modeling](https://img.shields.io/badge/Reward_Modeling-7d6fc6?style=flat&labelColor=eee7f7)
+
+**Data Engineering**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=flat&logo=dagster&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-c98a4e?style=flat&labelColor=eee7f7)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-c98a4e?style=flat&labelColor=eee7f7)
+
+**Deployment & Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_(S3·SageMaker·Bedrock)-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-c98a4e?style=flat&labelColor=eee7f7)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![HF Spaces](https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Retrieval**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3fa07a?style=flat&labelColor=eee7f7)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Dense--Sparse_Search-3fa07a?style=flat&labelColor=eee7f7)
+![Redis](https://img.shields.io/badge/Redis_Caching-DC382D?style=flat&logo=redis&logoColor=white)
+![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-3fa07a?style=flat&labelColor=eee7f7)
+
+**Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-7d6fc6?style=flat&labelColor=eee7f7)
+
+---
+
+### ◇ By the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PujithaJ-02&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7d6fc6&text_color=857f93&icon_color=c98a4e&ring_color=7d6fc6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujithaJ-02&layout=compact&hide_border=true&bg_color=ffffff&title_color=7d6fc6&text_color=857f93&langs_count=8&hide=html,jupyter%20notebook" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PujithaJ-02&hide_border=true&background=ffffff&stroke=e6e1ef&ring=7d6fc6&fire=c98a4e&currStreakLabel=3fa07a&sideLabels=857f93&dates=a39db2&currStreakNum=2c2838&sideNums=2c2838" />
+
+</div>
+
+---
+
+### Let's connect
+
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="90" alt="octocat" align="left" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pujitha_Jujjarapu-7d6fc6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4a4658)](https://www.linkedin.com/in/pujitha-jujjarapu/)
+[![Chatbot](https://img.shields.io/badge/Chat_with_my_bot-3fa07a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4a4658)](https://pujitha-chatbot.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-PujithaJ--02-c98a4e?style=for-the-badge&logo=github&logoColor=white&labelColor=4a4658)](https://github.com/PujithaJ-02)
+
+<br clear="left"/>
+
+---
+
+<div align="center">
+
+`> still here? you must love data as much as I do 📊`
+
+✨ *Thanks for stopping by — let's build something that predicts a better future.*
+
+</div>
+
+<!--
+  ── OPTIONAL EXTRAS ─────────────────────────────────────────────
+  • Snake eating your contributions (needs a GitHub Action, Platane/snk):
+      ![snake](https://raw.githubusercontent.com/PujithaJ-02/PujithaJ-02/output/github-contribution-grid-snake.svg)
+  • Trophy showcase:
+      ![trophies](https://github-profile-trophy.vercel.app/?username=PujithaJ-02&theme=flat&no-frame=true&column=7)
+  • More cute GitHub GIFs & Octocats:
+      https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub  ·  https://octodex.github.com
+  ────────────────────────────────────────────────────────────────
+-->
