@@ -14,7 +14,7 @@
 <img align="right" width="230" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="data workspace" />
 <!-- ↑ swap this floating GIF for any you love -->
 
-## Hi, I'm Pujitha Jujjarapu!
+## Hi, I'm Pujitha Jujjarapu! <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="38" />
 
 <p><em>AI/ML Engineer &amp; Data Scientist 📊<br/>
 M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
@@ -26,7 +26,7 @@ M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
 [![Follow PujithaJ-02](https://img.shields.io/github/followers/PujithaJ-02?label=follow&style=social)](https://github.com/PujithaJ-02)
 ![views](https://komarev.com/ghpvc/?username=PujithaJ-02&label=views&color=7d6fc6&style=flat-square)
 
-### <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="30" /> A little more about me…
+### <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="30" /> A little more about me…
 
 ```python
 def about_me():
@@ -41,23 +41,6 @@ def about_me():
 ```
 
 💬 *Always glad to nerd out over models, data pipelines, or a tricky SQL query — and open to AI/ML &amp; Data Science roles. **Drop me a line, my inbox is open.** ✶*
-
----
-
-### 🎓 Research & education
-
-> **Graduate Researcher — Master's Thesis · CSUN** &nbsp;·&nbsp; Sep 2025 – May 2026
-> First author · Accepted at IEEE SMC · Nominated — Outstanding Graduate Research Award
-> Built **CMXD**, an adversarial deepfake-detection framework that catches attacks by measuring the divergence between gradient-attribution maps from XceptionNet and EfficientNet-B4 — then trained a 5-channel ResNet-50 on PGD attacks alone that generalized to **5 unseen attack types at 99%+ detection accuracy**, with no retraining.
-
-> **Graduate Research Assistant · CSUN** &nbsp;·&nbsp; Feb 2026 – May 2026
-> First author · Under review (FMLDS)
-> Zero-shot benchmarking of unsupervised vision models for object counting in precision agriculture, with custom annotation tooling and an open evaluation framework. *More to come on publication.*
-
-> **Credit-Card Fraud Detection with ML & DL** &nbsp;·&nbsp; Published · IJETMS
-> Benchmarked 7 models on 284K transactions (0.17% fraud) with ADASYN rebalancing, scored on minority-class precision &amp; recall — best F1 **0.95**.
-
-🎓 M.S. Computer Science, CSUN — **3.9/4.0 (Honors)** · 2024–2026 &nbsp;|&nbsp; 🎓 B.Tech, Annamacharya Institute — **8.86/10** · 2019–2023
 
 ---
 
@@ -135,18 +118,9 @@ def about_me():
 
 ---
 
-### ◇ By the numbers
+### 👋 Welcome to my GitHub!
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PujithaJ-02&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7d6fc6&text_color=857f93&icon_color=c98a4e&ring_color=7d6fc6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujithaJ-02&layout=compact&hide_border=true&bg_color=ffffff&title_color=7d6fc6&text_color=857f93&langs_count=8&hide=html,jupyter%20notebook" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PujithaJ-02&hide_border=true&background=ffffff&stroke=e6e1ef&ring=7d6fc6&fire=c98a4e&currStreakLabel=3fa07a&sideLabels=857f93&dates=a39db2&currStreakNum=2c2838&sideNums=2c2838" />
-
-</div>
+Take a look around my repositories — I'd genuinely love to hear your **reviews and feedback** on any of my projects.
 
 ---
 
