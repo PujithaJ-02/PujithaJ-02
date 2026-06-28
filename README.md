@@ -29,7 +29,7 @@ M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
 [![Follow PujithaJ-02](https://img.shields.io/github/followers/PujithaJ-02?label=follow&style=social)](https://github.com/PujithaJ-02)
 ![views](https://komarev.com/ghpvc/?username=PujithaJ-02&label=views&color=7d6fc6&style=flat-square)
 
-### <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="30" /> A little more about me…
+### <img src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Pujitha-MiniBanner.gif" width="50" align="middle" /> A little more about me…
 
 ```python
 def about_me():
