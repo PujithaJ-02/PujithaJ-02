@@ -17,9 +17,9 @@
   <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="38">
 </h1>
 
-
-<img align="right" width="230" src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Main.gif" alt="data workspace" />
+<img align="right" width="230" src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Main.gif" />
 <!-- ↑ swap this floating GIF for any you love -->
+
 <p><em>AI/ML Engineer &amp; Data Scientist 📊<br/>
 M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
 
@@ -30,11 +30,8 @@ M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
 [![Follow PujithaJ-02](https://img.shields.io/github/followers/PujithaJ-02?label=follow&style=social)](https://github.com/PujithaJ-02)
 ![views](https://komarev.com/ghpvc/?username=PujithaJ-02&label=views&color=7d6fc6&style=flat-square)
 
-<div align="center">
+### <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="30" /> A little more about me…
 
-### <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="80" /> A little more about me…
-
-</div>
 ```python
 def about_me():
     """AI/ML Engineer & Data Scientist · open to full-time roles"""
