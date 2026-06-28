@@ -11,14 +11,10 @@
   ════════════════════════════════════════════════════════════════
 -->
 
-
-<h1>
-  Hi, I'm Pujitha Jujjarapu!
-  <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="38">
-</h1>
-
-<img align="right" width="230" src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Main.gif" />
+<img align="right" width="230" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="data workspace" />
 <!-- ↑ swap this floating GIF for any you love -->
+
+## Hi, I'm Pujitha Jujjarapu! <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="38" />
 
 <p><em>AI/ML Engineer &amp; Data Scientist 📊<br/>
 M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
