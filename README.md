@@ -21,7 +21,7 @@
 <p><em>AI/ML Engineer &amp; Data Scientist 📊<br/>
 M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
 
-<p><em>First-author researcher &amp; 13 months of production ML — now building agentic + RAG systems. I love turning messy data into predictions that move industries (and unwinding with a LeetCode or SQL puzzle).</em></p>
+<p><em>First-author researcher &amp; 13 months of production ML. Now building agentic + RAG systems. I love turning messy data into predictions that move industries (and unwinding with a LeetCode or SQL puzzle).</em></p>
 
 [![LinkedIn: pujitha-jujjarapu](https://img.shields.io/badge/-pujitha--jujjarapu-7d6fc6?style=flat-square&logo=Linkedin&logoColor=white&labelColor=4a4658)](https://www.linkedin.com/in/pujitha-jujjarapu/)
 [![Chat with my bot](https://img.shields.io/badge/-chat_with_my_bot-3fa07a?style=flat-square&logo=vercel&logoColor=white&labelColor=4a4658)](https://pujitha-chatbot.vercel.app/)
