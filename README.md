@@ -13,9 +13,8 @@
 
 
 
-<h1> 
-  Hi, I'm Pujitha Jujjarapu!
-  <img src="" width="38" />
+<h1>
+   Hi, I'm Pujitha Jujjarapu! <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="38" />
 </h1>
 <img align="right" width="230" src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Main.gif" alt="data workspace" />
 <!-- ↑ swap this floating GIF for any you love -->
@@ -29,97 +28,13 @@ M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
 [![Follow PujithaJ-02](https://img.shields.io/github/followers/PujithaJ-02?label=follow&style=social)](https://github.com/PujithaJ-02)
 ![views](https://komarev.com/ghpvc/?username=PujithaJ-02&label=views&color=7d6fc6&style=flat-square)
 
-### <img src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Pujitha-MiniBanner.gif" width="50" align="middle" /> A little more about me…
+### <img src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Pujitha-MiniBanner.gif" width="40" align="center" /> A little more about me…
 
-```python
-def about_me():
-    """AI/ML Engineer & Data Scientist · open to full-time roles"""
+<!-- about_me typing animation (GIF — always animates on GitHub, unlike SMIL SVG which the camo proxy can freeze). Put about-card.gif in your repo root. -->
+<img src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/about-card.gif" width="540" alt="about me — AI/ML Engineer & Data Scientist" />
 
-    experience = "13 months production ML + first-author research"
-    highlight  = "99%+ adversarial detection — accepted @ IEEE SMC"
-    i_build    = ["RAG & agentic systems", "robust CV models", "ETL + ML pipelines"]
-    toolkit    = ["Python", "PyTorch", "SQL", "LangGraph", "AWS"]
-
-    return "I turn messy data into models you can trust in production."
-```
 
 💬 *Always glad to nerd out over models, data pipelines, or a tricky SQL query — and open to AI/ML &amp; Data Science roles. **Drop me a line, my inbox is open.** ✶*
-
----
-
-### ◇ Tech I build with
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-**ML & Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![BERT](https://img.shields.io/badge/BERT-7d6fc6?style=flat&labelColor=eee7f7)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-7d6fc6?style=flat&labelColor=eee7f7)
-![DINOv2](https://img.shields.io/badge/DINOv2-7d6fc6?style=flat&labelColor=eee7f7)
-![CutLER](https://img.shields.io/badge/CutLER-7d6fc6?style=flat&labelColor=eee7f7)
-![iBOT](https://img.shields.io/badge/iBOT-7d6fc6?style=flat&labelColor=eee7f7)
-![MAE](https://img.shields.io/badge/MAE-7d6fc6?style=flat&labelColor=eee7f7)
-![DINO](https://img.shields.io/badge/DINO-7d6fc6?style=flat&labelColor=eee7f7)
-
-**GenAI & Agents**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7d6fc6?style=flat&labelColor=eee7f7)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7d6fc6?style=flat&labelColor=eee7f7)
-![LLaMA-3](https://img.shields.io/badge/LLaMA--3-7d6fc6?style=flat&labelColor=eee7f7)
-![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-7d6fc6?style=flat&labelColor=eee7f7)
-![RAG](https://img.shields.io/badge/RAG-7d6fc6?style=flat&labelColor=eee7f7)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7d6fc6?style=flat&labelColor=eee7f7)
-![RAGAS](https://img.shields.io/badge/RAGAS-7d6fc6?style=flat&labelColor=eee7f7)
-![RLHF](https://img.shields.io/badge/RLHF-7d6fc6?style=flat&labelColor=eee7f7)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7d6fc6?style=flat&labelColor=eee7f7)
-![Reward Modeling](https://img.shields.io/badge/Reward_Modeling-7d6fc6?style=flat&labelColor=eee7f7)
-
-**Data Engineering**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=flat&logo=dagster&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-c98a4e?style=flat&labelColor=eee7f7)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-c98a4e?style=flat&labelColor=eee7f7)
-
-**Deployment & Cloud**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS_(S3·SageMaker·Bedrock)-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-c98a4e?style=flat&labelColor=eee7f7)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![HF Spaces](https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**Retrieval**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3fa07a?style=flat&labelColor=eee7f7)
-![Hybrid Search](https://img.shields.io/badge/Hybrid_Dense--Sparse_Search-3fa07a?style=flat&labelColor=eee7f7)
-![Redis](https://img.shields.io/badge/Redis_Caching-DC382D?style=flat&logo=redis&logoColor=white)
-![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-3fa07a?style=flat&labelColor=eee7f7)
-
-**Visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-7d6fc6?style=flat&labelColor=eee7f7)
-
----
 
 ### 👋 Welcome to my GitHub!
 
@@ -127,7 +42,7 @@ Take a look around my repositories — I'd genuinely love to hear your **reviews
 
 ---
 
-### 🐙 Let's connect
+###  Let's connect
 
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="90" alt="octocat" align="left" />
 
@@ -156,4 +71,24 @@ Take a look around my repositories — I'd genuinely love to hear your **reviews
   • More cute GitHub GIFs & Octocats:
       https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub  ·  https://octodex.github.com
   ────────────────────────────────────────────────────────────────
+-->
+
+<!-- ── Live-text version of the code bio (if you ever prefer a real code block over the image) ──
+```python
+def about_me():
+    """AI/ML Engineer & Data Scientist · open to full-time roles"""
+
+    experience = "13 months production ML + first-author research"
+    highlight  = "99%+ adversarial detection — accepted @ IEEE SMC"
+    i_build    = ["RAG & agentic systems", "robust CV models"]
+    tools      = {
+        "ml"    : ["PyTorch", "TensorFlow", "scikit-learn"],
+        "genai" : ["LangChain", "LangGraph", "RAG", "LoRA"],
+        "data"  : ["Python", "SQL", "Pandas", "Spark"],
+        "deploy": ["AWS", "Docker", "FastAPI", "MLflow"],
+        "viz"   : ["Tableau", "Matplotlib"],
+    }
+
+    return "I turn messy data into models you can trust in production."
+```
 -->
