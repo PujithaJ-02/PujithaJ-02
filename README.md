@@ -18,7 +18,7 @@
 </h1>
 
 
-<img align="right" width="230" src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Pujitha_J.gif" alt="data workspace" />
+<img align="right" width="230" src="https://github.com/PujithaJ-02/PujithaJ-02/blob/main/Main.gif" alt="data workspace" />
 <!-- ↑ swap this floating GIF for any you love -->
 <p><em>AI/ML Engineer &amp; Data Scientist 📊<br/>
 M.S. in CS, CSUN — 3.9 GPA, Honors ✨</em></p>
